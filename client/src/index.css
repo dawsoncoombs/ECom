@@ -32,6 +32,11 @@ main {
   justify-content: center;
 }
 
+.btn-primary {
+  background-color: black;
+  border: 1px solid black;
+}
+
 .product {
   border: 1px solid black;
   margin: 1rem;
